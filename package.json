@@ -1,0 +1,21 @@
+{
+  "name": "one",
+  "version": "1.0.0",
+  "description": "first one ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "aditya",
+    "chai"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
